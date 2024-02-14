@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klurpicolo
 - 👀 I’m interested in Software development, Piano and Football
-- 🌱 I’m currently learning Domain driven design, Test driven design, DevOps, Frontend
+- 🌱 I’m currently learning Domain driven design, Test driven design, DevOps, AI
 - 💞️ I’m looking to collaborate on Open source project!!
 - 📫 How to reach me -> https://warit-boonmasiri.netlify.app/
 
